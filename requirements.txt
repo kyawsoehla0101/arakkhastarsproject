@@ -35,7 +35,7 @@ jmespath==1.0.1
 msgpack==1.0.5
 numpy==1.25.1
 pandas==2.0.3
-Pillow==9.5.0
+Pillow==10.0.1
 pipenv==2023.7.23
 platformdirs==3.8.0
 psycopg2==2.9.6
