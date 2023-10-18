@@ -51,7 +51,7 @@ soupsieve==2.4.1
 sqlparse==0.4.4
 typing_extensions==4.7.1
 tzdata==2023.3
-urllib3==1.26.16
+urllib3==1.26.18
 validate-email-address==1
 virtualenv==20.23.1
 virtualenv-clone==0.5.7
